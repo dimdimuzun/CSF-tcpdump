@@ -51,7 +51,7 @@ telnet 192.168.88.21
 login: student
 password: 123456
 
-![alt text](image-2.png)
+![alt text](./TelnetPCAP/image-2.png)
 
 ### Аналіз у Wireshark
 1. Фільтр
@@ -68,7 +68,7 @@ Data (ASCII)
 
 Right click → Follow → TCP Stream
 
-![alt text](image.png)
+![alt text](./TelnetPCAP/image.png)
 
 ### Результат
 
@@ -77,7 +77,7 @@ Right click → Follow → TCP Stream
 login: student
 password: 123456
 
-![alt text](image-1.png)
+![alt text](./TelnetPCAP/image-1.png)
 
 
 
